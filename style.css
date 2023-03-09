@@ -1,0 +1,28 @@
+.css{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.daah{
+    border-radius: 30px;
+   
+}
+.placement{
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text2{
+    margin-left: 50px;
+}
+.footer{
+    justify-content: center;
+}
+.paragraph{
+    text-align: center;
+}
+.space{
+    margin-top: 15px;
+}
